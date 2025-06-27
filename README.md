@@ -19,7 +19,7 @@ Sou um desenvolvedor iniciante, apaixonado por tecnologia e movido pela curiosid
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmoraessouza&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&card_width=320"/>
