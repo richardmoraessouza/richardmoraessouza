@@ -23,13 +23,8 @@ Sou um desenvolvedor dedicado e apaixonado por tecnologia e inovação. No meu d
   
 ---
 
-  <div style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; max-width: 600px; flex: 1;">
-    <h3 style="text-align: center; margin-bottom: 1rem;">📊 Estatísticas</h3>
-    <div style="text-align: center;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=radical&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmoraessouza&layout=compact&theme=radical"/>
-    </div>
-  </div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=tokyonight&locale=pt-br&bg_color=00000000)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra$theme=tokyonight$title=tegnologias)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
