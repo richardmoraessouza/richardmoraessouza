@@ -1,7 +1,8 @@
 # 👋 Olá! Eu sou Richard Moraes Souza
 
-Sou um desenvolvedor iniciante, apaixonado por tecnologia e movido pela curiosidade de aprender constantemente. No meu dia a dia, estou sempre explorando novas ferramentas, linguagens e boas práticas de desenvolvimento. Meu objetivo é transformar ideias em soluções eficientes e impactantes. Estou em busca das minhas primeiras oportunidades para aplicar na prática tudo o que venho estudando.
+Sou desenvolvedor front-end,apaixonado por tecnologia, interfaces bem construídas e experiências de usuário intuitivas.
 
+Tenho me dedicado ao estudo e desenvolvimento de aplicações modernas, explorando ferramentas, linguagens e boas práticas do ecossistema front-end. Meu foco é transformar ideias em soluções eficientes, responsivas e com código limpo. Estou sempre buscando evoluir tecnicamente e contribuir com projetos que entreguem valor real.
 ---
 
 ## 🚀 Tecnologias
