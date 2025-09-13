@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou Richard Moraes Souza
 
-Sou desenvolvedor front-end,apaixonado por tecnologia, interfaces bem construídas e experiências de usuário intuitivas.
-
+e sou desenvolvedor front-end, apaixonado por tecnologia, interfaces bem construídas e experiências de usuário intuitivas.
 Tenho me dedicado ao estudo e desenvolvimento de aplicações modernas, explorando ferramentas, linguagens e boas práticas do ecossistema front-end. Meu foco é transformar ideias em soluções eficientes, responsivas e com código limpo. Estou sempre buscando evoluir tecnicamente e contribuir com projetos que entreguem valor real.
 ---
 
