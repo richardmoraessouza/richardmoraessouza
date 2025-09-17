@@ -1,7 +1,10 @@
 # 👋 Olá! Eu sou Richard Moraes Souza
 
-Sou **desenvolvedor front-end**, apaixonado por tecnologia, interfaces bem construídas e experiências de usuário intuitivas.
-Atualmente, me dedico ao desenvolvimento de aplicações modernas, explorando ferramentas, linguagens e boas práticas do ecossistema front-end. Meu foco está em transformar ideias em soluções eficientes, responsivas e com código limpo. Estou sempre em busca de evolução técnica e de contribuir com projetos que entreguem valor real.
+Sou **desenvolvedor front-end** apaixonado por tecnologia, design de interfaces e criação de experiências digitais intuitivas.  
+Tenho como missão transformar ideias em soluções eficientes, responsivas e com código limpo, que entreguem valor real para os usuários.  
+
+Atualmente, dedico-me ao desenvolvimento de aplicações modernas, explorando ferramentas, linguagens e boas práticas do ecossistema front-end. Estou sempre em busca de aprimoramento técnico e de colaborar em projetos desafiadores que façam a diferença.
+
 ---
 
 ## 🚀 Tecnologias
@@ -25,9 +28,7 @@ Atualmente, me dedico ao desenvolvimento de aplicações modernas, explorando fe
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmoraessouza&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&card_width=320"/>
 
-
 </div>
-
 
 ---
 
@@ -36,5 +37,16 @@ Atualmente, me dedico ao desenvolvimento de aplicações modernas, explorando fe
 - 💼 [LinkedIn](https://www.linkedin.com/in/richard-moraes-souza-998539338/)
 - 🌐 [Portfólio](https://richardmoraessouza.github.io/Portf-lio/)
 - 📱 [WhatsApp](https://wa.me/5547999326217?text=Olá%20Richard%2C%20encontrei%20seu%20perfil%20no%20GitHub!)
-- 📧 Email: richardmoraessouza2006@gmail
+- 📧 richardmoraessouza2006@gmail.com
 
+---
+
+### Sobre a API que não está funcionando
+
+Se você estiver se referindo à API do GitHub Stats que não está carregando, verifique:
+
+- Se o username na URL está correto (nesse caso, `richardmoraessouza`)
+- Se não há erros na URL, por exemplo:
+
+```markdown
+https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true
