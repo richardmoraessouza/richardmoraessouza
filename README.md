@@ -26,14 +26,6 @@ Atualmente, dedico-me ao desenvolvimento de aplicações modernas, explorando fe
 ## 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=richardmoaressouza&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-  <a href="https://github.com/richardmoraessouza">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardmoraessouza&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&card_width=320"/>
-  </a>
-</div>
-
-
 ---
 
 ## 🌍 Contato
