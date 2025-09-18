@@ -24,6 +24,7 @@ Atualmente, dedico-me ao desenvolvimento de aplicações modernas, explorando fe
 ## 📊 GitHub Stats
 
 ## 🏆 Badges & Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardmoaressouza&show_icons=true&theme=dark&token=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)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=richardmoaressouza&theme=dark)  
 ![GitHub Profile](https://github-readme-stats.vercel.app/api?username=richardmoaressouza&show_icons=true&theme=dark)  
