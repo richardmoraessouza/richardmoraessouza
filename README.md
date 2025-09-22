@@ -21,6 +21,22 @@ Atualmente, dedico-me ao desenvolvimento de aplicações modernas, explorando fe
 
 ---
 
+## 🎯 Projetos Destacados
+
+### 🚗 SerginhoEstetiCar
+Site institucional desenvolvido sob demanda para estética automotiva, com formulário de agendamento e design responsivo. O projeto foi criado para apresentar os serviços oferecidos pela estética automotiva Serginho estetiCar, incluindo lavagem detalhada, polimento e cristalização.
+
+**Tecnologias**: HTML, CSS, JavaScript  
+**🌐 Site**: [Ver projeto](https://serginhoesteticar.netlify.app/)  
+**📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/SerginhoestetiCar)
+
+### 🧠 Quiz Interativo
+Quiz interativo desenvolvido com HTML, CSS, Bootstrap e JavaScript puro. As perguntas são carregadas dinamicamente e ao final o usuário recebe uma pontuação baseada nas respostas corretas.
+
+**Tecnologias**: HTML, CSS, Bootstrap, JavaScript  
+**🌐 Site**: [Ver projeto](https://perguntas-front-end.netlify.app/)  
+**📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/quiz)
+
 ---
 
 ## 🌍 Contato
@@ -31,13 +47,3 @@ Atualmente, dedico-me ao desenvolvimento de aplicações modernas, explorando fe
 - 📧 richardmoraessouza2006@gmail.com
 
 ---
-
-### Sobre a API que não está funcionando
-
-Se você estiver se referindo à API do GitHub Stats que não está carregando, verifique:
-
-- Se o username na URL está correto (nesse caso, `richardmoraessouza`)
-- Se não há erros na URL, por exemplo:
-
-```markdown
-https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true
