@@ -1,9 +1,10 @@
 # 👋 Olá! Eu sou Richard Moraes Souza
 
-Sou **desenvolvedor front-end** apaixonado por tecnologia, design de interfaces e criação de experiências digitais intuitivas.  
-Tenho como missão transformar ideias em soluções eficientes, responsivas e com código limpo, que entreguem valor real para os usuários.  
+Sou um **desenvolvedor full stack** apaixonado por tecnologia, design e pela arte de transformar ideias em experiências digitais envolventes.
+Gosto de unir lógica e criatividade para criar interfaces intuitivas, responsivas e com código limpo — sempre buscando entregar algo que realmente gere valor para o usuário.
 
-Atualmente, dedico-me ao desenvolvimento de aplicações modernas, explorando ferramentas, linguagens e boas práticas do ecossistema front-end. Estou sempre em busca de aprimoramento técnico e de colaborar em projetos desafiadores que façam a diferença.
+Tenho me dedicado ao desenvolvimento de aplicações modernas, explorando novas ferramentas, linguagens e boas práticas do ecossistema web.
+Estou em constante aprendizado, aprimorando minhas habilidades e buscando participar de projetos que desafiem meus limites e me ajudem a evoluir como profissional e como pessoa.
 
 ---
 
@@ -13,11 +14,11 @@ Atualmente, dedico-me ao desenvolvimento de aplicações modernas, explorando fe
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
 ---
