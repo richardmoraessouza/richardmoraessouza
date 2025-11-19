@@ -37,7 +37,7 @@ Site institucional desenvolvido sob demanda para estética automotiva, com formu
 ### PersonIA
 PersonIA é uma plataforma para criar personagens virtuais e conversar com eles por meio de um chat interativo.
 
-**Tecnologias**: HTML, CSS, Bootstrap, JavaScript  
+**Tecnologias**: HTML, CSS, React, Tailwind CSS, TypeScript e JavaScript
 **🌐 Site**: [Ver projeto](https://personia.netlify.app/)  
 **📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/PersonIA)
 
