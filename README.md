@@ -19,6 +19,7 @@ Estou em constante aprendizado, aprimorando minhas habilidades e buscando partic
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
@@ -26,19 +27,19 @@ Estou em constante aprendizado, aprimorando minhas habilidades e buscando partic
 
 ## 🎯 Projetos Destacados
 
-### 🚗 SerginhoEstetiCar
+### SerginhoEstetiCar
 Site institucional desenvolvido sob demanda para estética automotiva, com formulário de agendamento e design responsivo. O projeto foi criado para apresentar os serviços oferecidos pela estética automotiva Serginho estetiCar, incluindo lavagem detalhada, polimento e cristalização.
 
 **Tecnologias**: HTML, CSS, JavaScript  
 **🌐 Site**: [Ver projeto](https://serginhoesteticar.netlify.app/)  
 **📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/SerginhoestetiCar)
 
-### 🧠 Quiz Interativo
-Quiz interativo desenvolvido com HTML, CSS, Bootstrap e JavaScript puro. As perguntas são carregadas dinamicamente e ao final o usuário recebe uma pontuação baseada nas respostas corretas.
+### PersonIA
+PersonIA é uma plataforma para criar personagens virtuais e conversar com eles por meio de um chat interativo.
 
 **Tecnologias**: HTML, CSS, Bootstrap, JavaScript  
-**🌐 Site**: [Ver projeto](https://perguntas-front-end.netlify.app/)  
-**📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/quiz)
+**🌐 Site**: [Ver projeto](https://personia.netlify.app/)  
+**📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/PersonIA)
 
 ---
 
