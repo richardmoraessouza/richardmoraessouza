@@ -38,6 +38,7 @@ Site institucional desenvolvido sob demanda para estética automotiva, com formu
 Plataforma para criar personagens virtuais e conversar com eles por meio de um chat interativo, com perfis de usuário, sistema de seguidores e criação/edição de personagens.
 
 **Front-end**: HTML, CSS, React, Tailwind CSS, TypeScript e JavaScript
+
 **Back-end-end**: Node.js, Express.js, Google Cloud, PostgreSQL e Api OpenIA
 
 **📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/PersonIA)
