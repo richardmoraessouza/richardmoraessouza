@@ -35,11 +35,12 @@ Site institucional desenvolvido sob demanda para estética automotiva, com formu
 **📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/SerginhoestetiCar)
 
 ### PersonIA
-PersonIA é uma plataforma para criar personagens virtuais e conversar com eles por meio de um chat interativo.
+Plataforma para criar personagens virtuais e conversar com eles por meio de um chat interativo, com perfis de usuário, sistema de seguidores e criação/edição de personagens.
 
 **Tecnologias**: HTML, CSS, React, Tailwind CSS, TypeScript e JavaScript
 **🌐 Site**: [Ver projeto](https://personia.netlify.app/)  
 **📁 Repositório**: [GitHub](https://github.com/richardmoraessouza/PersonIA)
+**📁 Api**: [GitHub](https://github.com/richardmoraessouza/api-personia)
 
 ---
 
