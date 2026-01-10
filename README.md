@@ -29,7 +29,7 @@ Estou em constante aprendizado, aprimorando minhas habilidades e buscando partic
 ---
 
 ## 🎯 Projetos Destacados
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardmoraessouza&show_icons=true&theme=dark) 
 ### SerginhoEstetiCar
 Site institucional desenvolvido sob demanda para estética automotiva, com formulário de agendamento e design responsivo. O projeto foi criado para apresentar os serviços oferecidos pela estética automotiva Serginho estetiCar, incluindo lavagem detalhada, polimento e cristalização.
 
