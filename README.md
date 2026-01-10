@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou Richard Moraes Souza
 
+**`desenvolvedor full stack`**
+
 Sou um **desenvolvedor full stack** apaixonado por tecnologia, design e pela arte de transformar ideias em experiências digitais envolventes.
 Gosto de unir lógica e criatividade para criar interfaces intuitivas, responsivas e com código limpo — sempre buscando entregar algo que realmente gere valor para o usuário.
 
