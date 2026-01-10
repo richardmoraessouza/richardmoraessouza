@@ -30,6 +30,15 @@ Estou em constante aprendizado, aprimorando minhas habilidades e buscando partic
 
 ## 🎯 Projetos Destacados
 
+<a href="https://github.com/richardmoraessouza?tab=repositories&sort=stargazers"> 
+  <img
+    alt="Total de estrelas"
+    title="Total de estrelas GitHub"
+    src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+  />
+</a>
+
+
 ### SerginhoEstetiCar
 Site institucional desenvolvido sob demanda para estética automotiva, com formulário de agendamento e design responsivo. O projeto foi criado para apresentar os serviços oferecidos pela estética automotiva Serginho estetiCar, incluindo lavagem detalhada, polimento e cristalização.
 
