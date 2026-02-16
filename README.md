@@ -53,7 +53,7 @@ Plataforma para criar personagens virtuais e conversar com eles por meio de um c
 ## 🌍 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/richard-moraes-souza/)
-- 🌐 [Portfólio]([https://richardmoraes.netlify.app/](https://richardmoraessouza.netlify.app/))
+- 🌐 [Portfólio](https://richardmoraessouza.netlify.app/)
 - 📱 [WhatsApp](https://wa.me/5547999326217?text=Olá%20Richard%2C%20encontrei%20seu%20perfil%20no%20GitHub!)
 - 📧 richardmoraessouza2006@gmail.com
 
