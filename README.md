@@ -57,15 +57,6 @@ Site institucional de alta performance para o setor automotivo.
 
 ---
 
----
-
-## 🐍 Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/richardmoraessouza/richardmoraessouza/output/github-contribution-grid-snake.svg" alt="Snake game" />
-</p>
-
----
-
 ## 🌍 Vamos conversar?
 
 Estou sempre aberto a novos desafios e colaborações em projetos inovadores.
