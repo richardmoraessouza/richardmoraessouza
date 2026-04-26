@@ -44,7 +44,7 @@ Uma plataforma completa de interação com personagens gerados por IA. O projeto
 Site institucional de alta performance para o setor automotivo.
 * **Destaque Técnico**: Foco extremo em Core Web Vitals, atingindo pontuação máxima no Google Lighthouse. Design responsivo e sistema de conversão direta via WhatsApp.
 * **Stack**: HTML5, CSS3, JavaScript (Vanilla).
-* 🔗 [Live Demo](https://serginhoesteticar.netlify.app/)
+* 🔗 [Ver site](https://serginhoesteticar.netlify.app/)
 
 ---
 
